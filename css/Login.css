@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.div1{
+    display: flex;
+}
+.div2{
+    flex-direction: column;
+}
+button{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.imgfundo{
+    width: 50%;
+    height: 100vh;
+    min-width: 350px;
+    margin-right: 50px;
+}
+.logo{
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+input{
+    padding: 10px;
+    border-radius: 100px;
+}
+div p{
+    margin-bottom: 10px;
+}
+form{
+    display: block;
+}

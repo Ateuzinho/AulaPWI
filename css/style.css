@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+ul{
+    margin-left: 30px;
+}
+ol{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.link {
+    margin: 30px;
+    color: blue ;
+    background-color: white;
+    padding: 10px;
+}
+.link:hover{
+    margin-left: 100px;
+}
+div{
+    background-color: aqua ;
+    display: flex;
+}
